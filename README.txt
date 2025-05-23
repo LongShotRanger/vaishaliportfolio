@@ -2,7 +2,7 @@
 TITLE: 
 Vaishali - Portfolio
 
-AUTHOR: Biocoders
+AUTHOR: Biocoders.in
 
 CREDITS:
 
